@@ -7,8 +7,11 @@ import setuptools
 project_dir = Path(__file__).parent
 
 setuptools.setup(
-    name="bytexl",
-    version="2.0.0",
+    name="bytexl1",
+    version="2.0.1",
+=======
+    name="bytexl1",
+    version="2.0.1",
     description="Example Python project",
     # Allow UTF-8 characters in README with encoding argument.
     long_description=project_dir.joinpath("README.rst").read_text(encoding="utf-8"),
