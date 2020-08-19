@@ -1,7 +1,6 @@
 #
 # To update, run:
 #
-#    pip-compile requirements.in
 #
 colorama==0.4.3           # via -r requirements.in
 exitstatus==2.0.1         # via -r requirements.in
